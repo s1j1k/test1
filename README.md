@@ -1,3 +1,11 @@
+## Our test project
+✨ Looking forward to learning more
+Project is deployed at [page](https://s1j1k.github.io/test1/)
+
+# Acknowledgement
+This setup courtesy of this [tutorial](https://github.com/gitname/react-gh-pages)
+How to create a React app and push to github pages.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
